@@ -1,8 +1,8 @@
 Hi 
 this is for git cherry-pick command
-
 Updated in remote repo and in local repo for checking the updated content
-
-
-
 This line is for ssh url added to github repo
+
+
+
+Now am editing and commiting a changes, after pushing remote repo by giving a msg, want to edit msg by using a command i.e git commit -amend -m "updated msg".
